@@ -1,0 +1,235 @@
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.manifest
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.application
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.dll
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.xml
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.Cache
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe.manifest
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.application
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+C:\Users\ANB\Documents\Visual Studio 2015\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csprojResolveAssemblyReference.cache
+G:\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+G:\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.manifest
+G:\DefectorVK\DefectorVK\bin\Release\DefectorVK.application
+G:\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+G:\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+G:\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+G:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+G:\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+G:\DefectorVK\DefectorVK\bin\Release\VkNet.dll
+G:\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+G:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+G:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+G:\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+G:\DefectorVK\DefectorVK\bin\Release\VkNet.xml
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.Cache
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe.manifest
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.application
+G:\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.dll
+G:\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.xml
+G:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csprojResolveAssemblyReference.cache
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.xml
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csprojResolveAssemblyReference.cache
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.Cache
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+E:\Projects_\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+E:\Projects_\Projects\DefectorVK\DefectorVK\obj\Release\Interop.LCC11.dll
+E:\Projects_\Projects\DefectorVK\DefectorVK\obj\Release\Interop.Microsoft.Office.Core.dll
+E:\Projects_\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+E:\Projects_\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+E:\Projects_\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\MySql.Data.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.IndividualCheck.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\Interop.LCC11.dll
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\Interop.Microsoft.Office.Core.dll
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\MySql.Data.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\VkNet.UWP.dll
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.xml
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+G:\Projects_\DefectorVK\DefectorVK\bin\Release\VkNet.UWP.xml
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.IndividualCheck.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+G:\Projects_\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.Cache
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Chat_work.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.xml
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.BlackList.resources
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Core.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Winforms.dll
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Core.pdb
+C:\Users\ANB\Documents\Visual Studio 2017\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Winforms.pdb
+d:\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+d:\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+d:\Projects\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+d:\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Core.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Winforms.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\MySql.Data.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.dll
+d:\Projects\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Core.pdb
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Geckofx-Winforms.pdb
+d:\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+d:\Projects\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+d:\Projects\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.xml
+d:\Projects\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+d:\Projects\DefectorVK\DefectorVK\bin\Release\VkNet.xml
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csprojResolveAssemblyReference.cache
+d:\Projects\DefectorVK\DefectorVK\obj\Release\Interop.LCC11.dll
+d:\Projects\DefectorVK\DefectorVK\obj\Release\Interop.Microsoft.Office.Core.dll
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.BlackList.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Chat_work.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.IndividualCheck.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.Cache
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.CoreCompileInputs.cache
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+d:\Projects\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
+f:\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe.config
+f:\DefectorVK\DefectorVK\bin\Release\DefectorVK.exe
+f:\DefectorVK\DefectorVK\bin\Release\DefectorVK.pdb
+f:\DefectorVK\DefectorVK\bin\Release\AngleSharp.dll
+f:\DefectorVK\DefectorVK\bin\Release\EO.Base.dll
+f:\DefectorVK\DefectorVK\bin\Release\EO.WebBrowser.dll
+f:\DefectorVK\DefectorVK\bin\Release\EO.WebEngine.dll
+f:\DefectorVK\DefectorVK\bin\Release\Google.Protobuf.dll
+f:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.dll
+f:\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+f:\DefectorVK\DefectorVK\bin\Release\MySql.Data.dll
+f:\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.IO.Compression.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Net.Http.Extensions.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Net.Http.Primitives.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Security.Cryptography.Algorithms.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Security.Cryptography.Encoding.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Security.Cryptography.Primitives.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Security.Cryptography.X509Certificates.dll
+f:\DefectorVK\DefectorVK\bin\Release\System.Text.Encoding.CodePages.dll
+f:\DefectorVK\DefectorVK\bin\Release\VkNet.dll
+f:\DefectorVK\DefectorVK\bin\Release\AngleSharp.xml
+f:\DefectorVK\DefectorVK\bin\Release\EO.Base.xml
+f:\DefectorVK\DefectorVK\bin\Release\EO.WebBrowser.xml
+f:\DefectorVK\DefectorVK\bin\Release\EO.WebEngine.xml
+f:\DefectorVK\DefectorVK\bin\Release\Google.Protobuf.xml
+f:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.pdb
+f:\DefectorVK\DefectorVK\bin\Release\HtmlAgilityPack.xml
+f:\DefectorVK\DefectorVK\bin\Release\JetBrains.Annotations.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+f:\DefectorVK\DefectorVK\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+f:\DefectorVK\DefectorVK\bin\Release\MySql.Data.xml
+f:\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.pdb
+f:\DefectorVK\DefectorVK\bin\Release\Newtonsoft.Json.xml
+f:\DefectorVK\DefectorVK\bin\Release\System.Net.Http.Extensions.xml
+f:\DefectorVK\DefectorVK\bin\Release\System.Net.Http.Primitives.xml
+f:\DefectorVK\DefectorVK\bin\Release\VkNet.xml
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csprojAssemblyReference.cache
+f:\DefectorVK\DefectorVK\obj\Release\Interop.LCC11.dll
+f:\DefectorVK\DefectorVK\obj\Release\Interop.Microsoft.Office.Core.dll
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.ResolveComReference.cache
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.About.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.AboutBox1.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.AuthForm.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.BlackList.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.CaptchaMesseeg.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.Chat_work.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.ChekList.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.Form1.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.IndividualCheck.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.Properties.Resources.resources
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.GenerateResource.cache
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.CoreCompileInputs.cache
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.csproj.CopyComplete
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.exe
+f:\DefectorVK\DefectorVK\obj\Release\DefectorVK.pdb
